@@ -4,7 +4,7 @@ Costo por Kilo Molino - Power BI
 Objetivo
 [Calcular el costo por Kilo del papel en el Molino]
 ---
-ecnologías Utilizadas
+Tecnologías Utilizadas
 - **Power BI Desktop** (*[modo de conexión: Import]*)
 - **[Fuente de datos: SQL Server]**
 - **DAX** (*[medidas de forecast, consumo promedio, gasto mensual, producción mensual .]*)
@@ -25,5 +25,5 @@ ecnologías Utilizadas
 │ └── modelo_datos.png → Relación entre tablas
 ```
 ---
-## 긫긬긭긮긱긯긲기 Preview del Dashboard
+## Preview del Dashboard
 ![Preview](img/preview_dashboard.png)
